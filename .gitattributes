@@ -1,0 +1,8 @@
+# Use Linux-style line endings for all text files
+* eol=lf
+# Identify binary files
+*.ico binary
+*.jpg binary
+*.png binary
+*.woff binary
+*.woff2 binary
