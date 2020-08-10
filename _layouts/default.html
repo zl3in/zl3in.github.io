@@ -5,6 +5,7 @@
 		<title>{{ page.title }}</title>
 	</head>
 	<body>
-		{{ content -}}
+		{% include navigation.html %}
+		{{ content }} <!-- This comment maybe supresses the trailing blank line -->
 	</body>
 </html>
