@@ -1,0 +1,7 @@
+$heading-font: Lato;
+$heading-font-stack: $heading-font, Helvetica, sans-serif;
+$heading-font-weight: 900;
+$body-font: Merriweather;
+$body-font-stack: $body-font, Georgia, serif;
+$body-font-weight: 400;
+@import url('https://fonts.googleapis.com/css2?family=#{$heading-font}:wght@#{$heading-font-weight}&family=#{body-font}:wght@#{body-font-weight}&display=swap');
